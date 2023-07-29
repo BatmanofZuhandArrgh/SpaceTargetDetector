@@ -1,0 +1,6 @@
+[submodule "SpaceTargetRenderer"]
+	path = SpaceTargetRenderer
+	url = git@github.com:BatmanofZuhandArrgh/SpaceTargetRenderer.git
+[submodule "yolov7"]
+	path = yolov7
+	url = git@github.com:BatmanofZuhandArrgh/yolov7.git
