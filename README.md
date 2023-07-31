@@ -5,7 +5,7 @@ Code repo for Space Inspection For CubeSats and Other Space Targets using Object
 
 ![alt-text](https://github.com/BatmanofZuhandArrgh/SpaceTargetDetector/blob/main/demo.gif)
 
-**Dataset**
+**Datasets**\
 In this research, both real and synthetic images were used. For real train and test set, introducing the first public image dataset of CubeSats and Space Targets in space (as of 2022), collected from the NASA, JASA, and ESA's website and youtube channel, and labelled with bounding boxes in yolov1 format. Blender generated images were also used for training and testing. Unlabelled images were also collected for domain adaptation.
 - [Real dataset](https://mailuc-my.sharepoint.com/:u:/g/personal/kim3dn_ucmail_uc_edu/EfLARE6IQeJPm8qDYljCcCABd0AaqbTedxHxT0f-2MsVbQ?e=OySZE6)
 - [Synthetic RS2000 dataset](https://mailuc-my.sharepoint.com/:u:/g/personal/kim3dn_ucmail_uc_edu/EXvRBkXG3r9Kqcj3LjGBXRsBTQHsx8Wx3EP9ppTKvybEuQ?e=EwKL9f)
